@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-var x = "ai";
-const y = "changes";
-=======
 const x = "ll";
-var f ="fsd";
+<<<<<<< HEAD
+var f ="yui";
+=======
+var f ="develop";
 >>>>>>> develop
 console.log("pipeline");
