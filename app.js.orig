@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+var x = "ai";
+const y = "changes";
+=======
+const x = "ll";
+var f ="fsd";
+>>>>>>> develop
+console.log("pipeline");
